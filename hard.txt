@@ -1,0 +1,17 @@
+asyncio
+aiohttp
+asyncpg
+PyTest
+OpenAPI
+Docker
+CodeReview
+YT
+SQS
+Logbroker
+apt
+dpkg
+создание deb пакетов
+работа с debian based репозиториями
+asyncio
+aiohttp
+asyncpg
